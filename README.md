@@ -1,4 +1,4 @@
-## WIDS Datathon 2022
+## WID Datathon 2022
 
 This project is part of the team submission to the WID 2022 Datathon on the Global Gender Pay Gap. 
 
